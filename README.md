@@ -1,18 +1,28 @@
-# This is a large heading
+# Sergio Dominguez
 
-## This is a smaller heading
+### Geograph
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Monterrey, in the state of Nuevo Leon, in Mexico.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
+Three of my favorite books are:
+
+- *The man in search of happyness* by Viktor Frankl
+- *Memorias de Marco Aurelio* by Marco Aurelio
+- *The future is faster than you think* Peter D
+
+### Food
+
+Last night I dreamt about eating in there restaurants:
+
+1. Ling Ling in CDMX
+2. Sukah Thai in Monterrey
+3. Los Querendones in San Pedro Coah.
+
+### Contact
+
+The best way to get in touch with me is [on Instagram](https://www.instagram.com/chcodom/).
 3. list
 
 Here is `some code` in the middle of a sentence.
