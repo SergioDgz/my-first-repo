@@ -8,7 +8,7 @@ I live in the city of Monterrey, in the state of Nuevo Leon, in Mexico.
 
 Three of my favorite books are:
 
-- *The man in search of happyness* by Viktor Frankl
+- *The man in search of happiness* by Viktor Frankl
 - *Memorias de Marco Aurelio* by Marco Aurelio
 - *The future is faster than you think* Peter D
 
